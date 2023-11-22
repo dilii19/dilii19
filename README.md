@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dilii19🧑‍💻
+- 👋 Hi, I’m @dilii🧑‍💻
 A frontend web developer and google certified project manager, passionate about delivering seamless digital experiences.
 -💻Tech stack/skills
       HTML
